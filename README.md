@@ -1,7 +1,7 @@
 # 👋 Olá, pessoal! Me chamo Yuri...
 
 - 💻 Sou estudante de Inteligência Artificial da PUCPR
-- 📚 Atualmente estou me dedicando a aprender mais sobre HTML, CSS e Python
+- 📚 Atualmente estou me dedicando a aprender mais sobre Python, PLN e Análises de dados.
 - 👀 Também estou a procura de um estágio para poder aperfeiçoar minhas habilidades
 e continuar a evoluir nessa área
 ##
