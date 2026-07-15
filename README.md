@@ -1,9 +1,9 @@
 # 👋 Olá! Me chamo Yuri
 
-Sou estudante de **Inteligência Artificial e Machine Learning** na **PUCPR** e atuo na área de **Análise de Dados**. 
+Sou estudante de **Inteligência Artificial e Machine Learning** na **PUCPR** e atuo na área de **Análise de Dados**. Possuo uma trajetória multidisciplinar, sendo também Farmacêutico, o que me desenvolveu um forte pensamento crítico, rigor analítico e método científico.
 
 ### 🚀 Sobre mim
-- 🔭 Buscando oportunidades como **Estagiário/Trainee/Júnior** em Dados para continuar evoluindo.
+- 🔭 Buscando constantemente aprimorar minhas habilidades analíticas e de IA, aberto a desafios e oportunidades para evoluir na área de dados.
 - 📚 Focado em extração de insights, modelagem e exploração de dados utilizando bibliotecas em Python.
 - ⚙️ Possuo experiência em construção de queries, processos de ETL e automação de fluxos de trabalho.
 
