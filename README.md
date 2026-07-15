@@ -21,7 +21,7 @@ Sou estudante de **Inteligência Artificial e Machine Learning** na **PUCPR** e 
 
 | Instituição | Curso / Certificado | Status |
 | :---: | :--- | :---: |
-| **IBM** | [Data Fundamentals] | [Verificar]([#](https://www.credly.com/badges/e787f0d6-8e47-4683-8e6f-301d9903a0fc/public_url)) |
+| **IBM** | [Data Fundamentals] | [Verificar](https://www.credly.com/badges/e787f0d6-8e47-4683-8e6f-301d9903a0fc/public_url) |
 | **SCTEC** | Análise de Dados (Dados, Pyhton e Dashboards) - 16h | Concluído |
 | **SCTEC** | Inteligência Artificial (Criação de Modelos, Bibliotecas para IA, Ética) - 16h | Concluído |
 | **Google / Coursera** | Google Data Analytics | Em andamento |
